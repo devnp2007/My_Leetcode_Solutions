@@ -23,6 +23,7 @@ Solution to all the problems I have solved on Leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -31,9 +32,14 @@ Solution to all the problems I have solved on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
