@@ -24,6 +24,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -42,4 +43,12 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
