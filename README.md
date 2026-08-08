@@ -25,6 +25,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -47,8 +48,25 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
