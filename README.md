@@ -16,6 +16,7 @@ Solution to all the problems I have solved on Leetcode
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Solution to all the problems I have solved on Leetcode
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
