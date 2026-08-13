@@ -79,4 +79,16 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
