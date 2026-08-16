@@ -8,12 +8,14 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -94,4 +96,5 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
