@@ -32,6 +32,7 @@ Solution to all the problems I have solved on Leetcode
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
@@ -64,6 +65,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0707-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
