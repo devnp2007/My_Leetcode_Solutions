@@ -9,6 +9,7 @@ Solution to all the problems I have solved on Leetcode
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ Solution to all the problems I have solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
