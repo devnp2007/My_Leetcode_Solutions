@@ -7,6 +7,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
@@ -55,6 +56,7 @@ Solution to all the problems I have solved on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -117,4 +119,12 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
