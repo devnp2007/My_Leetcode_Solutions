@@ -8,6 +8,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
