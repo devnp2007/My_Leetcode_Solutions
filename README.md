@@ -42,6 +42,7 @@ Solution to all the problems I have solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Greedy
@@ -102,6 +103,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -128,4 +130,8 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
