@@ -37,6 +37,7 @@ Solution to all the problems I have solved on Leetcode
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
@@ -122,6 +123,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +136,8 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
