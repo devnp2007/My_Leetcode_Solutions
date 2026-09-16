@@ -11,6 +11,7 @@ Solution to all the problems I have solved on Leetcode
 | [0006-zigzag-conversion](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -70,6 +71,7 @@ Solution to all the problems I have solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -140,4 +143,8 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
