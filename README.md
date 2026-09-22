@@ -33,6 +33,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -77,6 +78,7 @@ Solution to all the problems I have solved on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -110,6 +112,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
