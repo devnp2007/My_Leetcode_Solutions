@@ -38,6 +38,7 @@ Solution to all the problems I have solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -109,6 +110,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ Solution to all the problems I have solved on Leetcode
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
@@ -155,6 +158,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
