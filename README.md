@@ -19,6 +19,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -133,6 +134,7 @@ Solution to all the problems I have solved on Leetcode
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0707-design-linked-list) |
 ## Binary Search
@@ -163,6 +165,7 @@ Solution to all the problems I have solved on Leetcode
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
