@@ -43,6 +43,7 @@ Solution to all the problems I have solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -78,6 +79,7 @@ Solution to all the problems I have solved on Leetcode
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -148,6 +150,7 @@ Solution to all the problems I have solved on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -181,4 +184,13 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
