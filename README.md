@@ -42,6 +42,7 @@ Solution to all the problems I have solved on Leetcode
 | [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -81,6 +82,7 @@ Solution to all the problems I have solved on Leetcode
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -112,6 +114,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
