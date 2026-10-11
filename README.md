@@ -38,6 +38,7 @@ Solution to all the problems I have solved on Leetcode
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -78,6 +79,7 @@ Solution to all the problems I have solved on Leetcode
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
