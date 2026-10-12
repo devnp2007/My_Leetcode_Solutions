@@ -90,6 +90,7 @@ Solution to all the problems I have solved on Leetcode
 | [0011-container-with-most-water](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -142,6 +143,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
