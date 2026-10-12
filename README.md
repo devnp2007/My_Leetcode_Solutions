@@ -143,6 +143,7 @@ Solution to all the problems I have solved on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0707-design-linked-list) |
 ## Math
