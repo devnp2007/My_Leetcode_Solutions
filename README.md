@@ -19,6 +19,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -42,6 +43,7 @@ Solution to all the problems I have solved on Leetcode
 | [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -72,6 +74,7 @@ Solution to all the problems I have solved on Leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
@@ -104,6 +107,7 @@ Solution to all the problems I have solved on Leetcode
 | [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -168,6 +172,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 ## Manacher
 |  |
 | ------- |
