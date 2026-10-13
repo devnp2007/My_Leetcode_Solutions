@@ -35,9 +35,11 @@ bool isPalindrome(ListNode* head) {
     while (fast->next != nullptr &&
            fast->next->next != nullptr) {
         slow = slow->next;
-        fast = fast->next->next;
+        fast = fast->next->next; //finding middle of the whole linked lsit using slow and fast
     }
 
+    // now we have got mid point
+    // and so we will reer teh list fromm the mid point to forward i.e. from slow till the end .
     ListNode* secondHalf = reverseList(slow->next);
 
     ListNode* first = head;
