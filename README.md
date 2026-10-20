@@ -21,6 +21,7 @@ Solution to all the problems I have solved on Leetcode
 | [0020-valid-parentheses](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -236,6 +237,7 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,4 +246,9 @@ Solution to all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
