@@ -170,6 +170,7 @@ Solution to all the problems I have solved on Leetcode
 | [0048-rotate-image](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/devnp2007/My_Leetcode_Solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
